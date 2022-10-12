@@ -1,3 +1,4 @@
+// prueba github desde eclipse
 import javax.swing.*;
 
 public class Punto extends Actor {
