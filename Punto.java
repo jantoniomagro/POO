@@ -1,4 +1,3 @@
-// dt
 import javax.swing.*;
 
 public class Punto extends Actor {
